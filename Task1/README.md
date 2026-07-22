@@ -45,3 +45,10 @@ After Execution Output
 
 <img width="940" height="460" alt="image" src="https://github.com/user-attachments/assets/e3c94c51-76cb-44f9-9f98-36b6cf795a71" />
 
+**Step 7 - Configuration Cleanup**
+
+<img width="940" height="372" alt="image" src="https://github.com/user-attachments/assets/0a9711fb-fdfe-42f6-a21e-45c97ca5585f" />
+
+<img width="940" height="284" alt="image" src="https://github.com/user-attachments/assets/8f34c82a-2438-455e-8f88-f7836dfd61a3" />
+
+<img width="940" height="258" alt="image" src="https://github.com/user-attachments/assets/0c5d0862-cab5-43b0-a13c-9ff8c19946b8" />
